@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Blog---php---Mysql
   Start apache and mysql server
 ```
 
